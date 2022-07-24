@@ -7,3 +7,5 @@ sudo apt-mark hold linux-generic linux-headers-generic linux-image-generic
 ```
 
 Actually, I had saved the Gist page where it gives me the kernels to hold, but I'd forgotten is was there. I thought I had starred it on GitHub. Whatevs, now it's on here. I'll update when the kernel security issues are resolved. After I get the machine up and runnig like before, I'm gonna look for another version of Linux (server) and install it and do the process all over again.
+
+    #rwx #skilstakboost #go #linux #bash
